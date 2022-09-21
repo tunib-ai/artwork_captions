@@ -5,7 +5,7 @@ There are many image caption datasets like MS-COCO or Flickr-30k. The images in 
 ## Example
 * Artist: Pablo Picasso
 * Image: Pablo_Picasso_422.jpg<br>
-<img src="Pablo_Picasso_422.jpg" width="100">
+<img src="Pablo_Picasso_422.jpg" width="200">
 
 * English: a painting of a cow and other animals on a wall	
 * Korean: 벽에 있는 소와 다른 동물들의 그림
